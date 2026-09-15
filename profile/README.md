@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://vantion.co"><img alt="vantion.co" src="https://img.shields.io/badge/vantion.co-2233f0?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://vantion.co/book-a-call"><img alt="Book a call" src="https://img.shields.io/badge/Book_a_call-0a0a0b?style=for-the-badge&logo=caldotcom&logoColor=white" /></a>
-  <a href="https://vantion.co/developers"><img alt="Developer resources" src="https://img.shields.io/badge/Developer_resources-f4f4f6?style=for-the-badge&logoColor=0a0a0b" /></a>
+  <a href="https://vantion.co/book-a-call"><img alt="Book a call" src="https://img.shields.io/badge/Book_a_call-2233f0?style=for-the-badge&logo=caldotcom&logoColor=white" /></a>
+  <a href="https://vantion.co"><img alt="vantion.co" src="https://img.shields.io/badge/vantion.co-f4f4f6?style=for-the-badge" /></a>
+  <a href="https://vantion.co/developers"><img alt="Developer resources" src="https://img.shields.io/badge/Developer_resources-f4f4f6?style=for-the-badge" /></a>
   <a href="mailto:hello@vantion.co"><img alt="hello@vantion.co" src="https://img.shields.io/badge/hello%40vantion.co-f4f4f6?style=for-the-badge" /></a>
 </p>
 
@@ -64,9 +64,9 @@ Free, MIT licensed, and the same files we start our own builds with.
 
 | Starter | What it does | Status |
 | --- | --- | :---: |
-| [**RAG starter**](https://github.com/vantionlabs/rag-starter) | Ingestion, hybrid search and verified citations for document Q&A. | ![coming soon](https://img.shields.io/badge/coming_soon-f0f022?style=flat-square&labelColor=0a0a0b) |
-| [**MCP server starter**](https://github.com/vantionlabs/mcp-server-starter) | Typed, scoped and audited access to your internal systems for AI agents. | ![coming soon](https://img.shields.io/badge/coming_soon-f0f022?style=flat-square&labelColor=0a0a0b) |
-| [**Eval harness**](https://github.com/vantionlabs/eval-harness) | Test sets, graders and a CI gate that catches regressions before release. | ![coming soon](https://img.shields.io/badge/coming_soon-f0f022?style=flat-square&labelColor=0a0a0b) |
+| [**RAG starter**](https://github.com/vantionlabs/rag-starter) | Ingestion, hybrid search and verified citations for document Q&A. | ![coming soon](https://img.shields.io/badge/coming_soon-f0f022?style=flat-square) |
+| [**MCP server starter**](https://github.com/vantionlabs/mcp-server-starter) | Typed, scoped and audited access to your internal systems for AI agents. | ![coming soon](https://img.shields.io/badge/coming_soon-f0f022?style=flat-square) |
+| [**Eval harness**](https://github.com/vantionlabs/eval-harness) | Test sets, graders and a CI gate that catches regressions before release. | ![coming soon](https://img.shields.io/badge/coming_soon-f0f022?style=flat-square) |
 
 Watch the repos to hear when they ship.
 
