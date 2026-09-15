@@ -62,13 +62,14 @@ Free, MIT licensed, and the same files we start our own builds with.
 
 ## Starters
 
-| Starter | What it does | Status |
-| --- | --- | :---: |
-| [**RAG starter**](https://github.com/vantionlabs/rag-starter) | Ingestion, hybrid search and verified citations for document Q&A. | ![coming soon](https://img.shields.io/badge/coming_soon-f0f022?style=flat-square) |
-| [**MCP server starter**](https://github.com/vantionlabs/mcp-server-starter) | Typed, scoped and audited access to your internal systems for AI agents. | ![coming soon](https://img.shields.io/badge/coming_soon-f0f022?style=flat-square) |
-| [**Eval harness**](https://github.com/vantionlabs/eval-harness) | Test sets, graders and a CI gate that catches regressions before release. | ![coming soon](https://img.shields.io/badge/coming_soon-f0f022?style=flat-square) |
+| Starter | What it does | Built with |
+| --- | --- | --- |
+| [**RAG starter**](https://github.com/vantionlabs/rag-starter) | Ingestion, hybrid search and verified citations for document Q&A. | Python · FastAPI · pgvector |
+| [**MCP server starter**](https://github.com/vantionlabs/mcp-server-starter) | Typed, scoped and audited access to your internal systems for AI agents. | TypeScript · Effect · Postgres |
+| [**Eval harness**](https://github.com/vantionlabs/eval-harness) | Test sets, graders and a CI gate that catches regressions before release. | Python · CI · any provider |
 
-Watch the repos to hear when they ship.
+All three are MIT licensed. Fork them, change them, ship them.
+
 
 ## What we build with
 
