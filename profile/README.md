@@ -1,17 +1,10 @@
 <p align="center">
-  <a href="https://vantion.co">
     <img src="https://raw.githubusercontent.com/vantionlabs/.github/main/profile/banner.png" alt="Vantion Labs" width="100%" />
-  </a>
 </p>
 
 <p align="center">
   <b>AI agents, automation and custom software, designed, built and run by one team.</b><br />
   For businesses where software runs the operation.
-</p>
-
-<p align="center">
-  <a href="https://vantion.co"><img alt="vantion.co" src="https://img.shields.io/badge/vantion.co-f4f4f6?style=for-the-badge" /></a>
-  <a href="https://vantion.co/developers"><img alt="Developer resources" src="https://img.shields.io/badge/Developer_resources-f4f4f6?style=for-the-badge" /></a>
 </p>
 
 <br />
@@ -21,29 +14,29 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://vantion.co/expertise/ai-agents">AI agents</a></h3>
+      <h3>AI agents</h3>
       Agents that handle real work across your systems, with people approving what matters.
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://vantion.co/expertise/generative-ai">Generative AI</a></h3>
+      <h3>Generative AI</h3>
       RAG, search, evals and MCP servers that hold up with real users and real data.
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://vantion.co/expertise/automation">Automation</a></h3>
+      <h3>Automation</h3>
       Documents read, checked and filed, and back-office work that runs on its own.
     </td>
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://vantion.co/expertise/custom-software">Custom software</a></h3>
+      <h3>Custom software</h3>
       SaaS products, internal tools, portals and apps built around how you work.
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://vantion.co/expertise/integrations">Integrations</a></h3>
+      <h3>Integrations</h3>
       Systems that share data reliably, from legacy ERPs to modern SaaS tools.
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://vantion.co/expertise/ai-strategy">AI strategy</a></h3>
+      <h3>AI strategy</h3>
       Readiness assessments and roadmaps from a team that builds what it recommends.
     </td>
   </tr>
@@ -75,10 +68,10 @@ All three are MIT licensed. Fork them, change them, ship them.
   <img alt="Tech stack" src="https://skillicons.dev/icons?i=python,fastapi,ts,nextjs,react,postgres,redis,docker,cloudflare,githubactions&theme=light" />
 </p>
 
-Plus Claude, OpenAI and open models, pgvector, PydanticAI and MCP. See [every technology we use](https://vantion.co/expertise).
+Plus Claude, OpenAI and open models, pgvector, PydanticAI and MCP. See every technology we use.
 
 <br />
 
 <p align="center">
-  <a href="https://vantion.co/guides">Guides</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://vantion.co/insights">Insights</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://vantion.co/how-we-work">How we work</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://vantion.co/careers">Careers</a>
+  Guides&nbsp;&nbsp;·&nbsp;&nbsp;Insights&nbsp;&nbsp;·&nbsp;&nbsp;How we work&nbsp;&nbsp;·&nbsp;&nbsp;Careers
 </p>
