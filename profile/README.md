@@ -10,10 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://vantion.co/book-a-call"><img alt="Book a call" src="https://img.shields.io/badge/Book_a_call-2233f0?style=for-the-badge&logo=caldotcom&logoColor=white" /></a>
   <a href="https://vantion.co"><img alt="vantion.co" src="https://img.shields.io/badge/vantion.co-f4f4f6?style=for-the-badge" /></a>
   <a href="https://vantion.co/developers"><img alt="Developer resources" src="https://img.shields.io/badge/Developer_resources-f4f4f6?style=for-the-badge" /></a>
-  <a href="mailto:hello@vantion.co"><img alt="hello@vantion.co" src="https://img.shields.io/badge/hello%40vantion.co-f4f4f6?style=for-the-badge" /></a>
 </p>
 
 <br />
